@@ -1,6 +1,6 @@
 # `Tic-tac-toe upgrade`
 
-Result on github pages [https://tarthur.github.io/tic-tac-toe/](https://reactjs.org/tutorial/tutorial.html)
+Result on github pages [https://tarthur.github.io/tic-tac-toe/](https://tarthur.github.io/tic-tac-toe/)
 
 Reactjs.org tutorial [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
 
